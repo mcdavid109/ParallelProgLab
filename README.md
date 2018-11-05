@@ -1,0 +1,3 @@
+# ParallelProgLab
+
+OpenMPI Matrix Multiplication
